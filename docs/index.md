@@ -25,6 +25,7 @@ The Advanced Programming course trains students to develop complex and efficient
 - Document and test programs rigorously, ensuring software reliability and quality.
 
 # Schedule
+
 | Week    | Date       | Hours | ID  | Activity                      | Notes                             |
 |---------|------------|-------|-----|-------------------------------|-----------------------------------|
 | Week 1  | 11/02/2025 |     3 | L01 | Introduction and Motivation   | First day                         |
