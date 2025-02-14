@@ -1,6 +1,6 @@
 # Advanced Programming
 
-This site documents the course Advanced Programming taught at [Yahay Tech University]https://yachaytech.edu.ec/) in the School of Mathematics and Computer Science.
+This site documents the course Advanced Programming taught at [Yahay Tech University](https://yachaytech.edu.ec/) in the School of Mathematics and Computer Science.
 
 This course aggregates multiple resources. The primary reference at the moment is the Standford CS106L.
 
