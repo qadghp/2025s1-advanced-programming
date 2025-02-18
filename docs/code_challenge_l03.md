@@ -39,12 +39,12 @@ Use different types of initialization (i.e., direct initialization, uniform init
 
 Analyze the following expressions and classify each as an l-value or an r-value:
 
-1.	a = 42;
-2.	int x = a + b;
-3.	&a;
-4.	std::string s = c + " World";
-5.	int& refX = x;
-6.	int&& rref = 100;
+    1.	a = 42;
+    2.	int x = a + b;
+    3.	&a;
+    4.	std::string s = c + " World";
+    5.	int& refX = x;
+    6.	int&& rref = 100;
 
 Write comments in the code explaining which expressions are l-values and which are r-values.
 
