@@ -17,10 +17,12 @@ You will implement a small program that demonstrates:
 ## Part 1: Variable Initialization
 
 Declare and initialize the following variables using different initialization methods:
+
 	- An `int` with an initial value.
 	- A `double` with an initial value.
 	- A `std::string` with an initial value.
 	- A `bool` with an initial value.
+
 Use different types of initialization (i.e., direct initialization, uniform initialization, structured binding)Print all the initialized values.
 
 ## Part 3: References
