@@ -61,6 +61,35 @@ The Advanced Programming course trains students to develop complex and efficient
 | Week 16 | 27/05/2025 |     3 |     | Project - Final               |                                   |
 |         | 29/05/2025 |     2 |     | Project - Final               | Last day                          |
 
+
+## Project
+Doing is powerful learning technique. The goal of the project is to give you the opportunity to use all the tools covered during the semester and also explore new interesting ideas on your own. There are two important moments for the project.
+
+1. Midterm progress presentation
+2. Final results presentation
+
+However, keep in mind that the expectation is that you should be working on the project throughout the semester.
+
+### Midterm project presentation
+During the midterm period you are going to present a proposal that includes the following:
+- Problem
+- Proposed solution
+- Preliminary results (optional)
+
+There are two deliverables:
+1. Written Report in IEEE Conference format, three pages max.
+2. Oral presentation
+
+### Final project presentation
+The last week of the semester you will present your final results. There are three deliverables
+1. Written final report in IEEE Conference format, six pages max.
+2. Final solution, description of the computational solutions that includes the C++ tools that you used to solve the problem
+3. GitHub repository with your implementation
+
+**Notes**
+- The project is individual
+
+
 [s1]: https://web.stanford.edu/class/archive/cs/cs106l/cs106l.1254/lectures/2025Winter-01-Welcome.pdf
 [a0]: https://github.com/cs106l/cs106l-assignments/tree/main/assign0
 [s2]: https://office365stanford-my.sharepoint.com/:p:/g/personal/jtrb_stanford_edu/Ed1_mt4JLOtFv66zgOBO-2UBZiiRbMhlM5w6RHmrHppW_w?e=rvTSKB
