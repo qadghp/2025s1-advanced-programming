@@ -31,7 +31,7 @@ The Advanced Programming course trains students to develop complex and efficient
 | Week 1  | 11/02/2025 |     3 | L01 | Introduction and Motivation   | First day, [Slides](https://web.stanford.edu/class/archive/cs/cs106l/cs106l.1254/lectures/2025Winter-01-Welcome.pdf)                         |
 |         | 13/02/2025 |     2 | L02 | Types and Structs             | [Slides](https://office365stanford-my.sharepoint.com/:p:/g/personal/jtrb_stanford_edu/Ed1_mt4JLOtFv66zgOBO-2UBZiiRbMhlM5w6RHmrHppW_w?e=rvTSKB)                                  |
 | Week 2  | 18/02/2025 |     3 | L03 | Initialization and References | [Slides](https://web.stanford.edu/class/archive/cs/cs106l/cs106l.1254/lectures/2025Winter-03-Initialization_&_References.pdf) [Code Challenge](code_challenge_l03.md)                                  |
-|         | 20/02/2025 |     2 | L04 | Streams                       | [Slides][4]                       |
+|         | 20/02/2025 |     2 | L04 | Streams                       | [Slides][s4] [Assignment 1][a1]   |
 | Week 3  | 25/02/2025 |     3 | L05 | Containers                    |                                   |
 |         | 27/02/2025 |     2 | L06 | Iterators and Pointers        |                                   |
 | Week 4  | 04/03/2025 |     3 |     | ----------------------------- | Holiday - Carnival                |
@@ -61,4 +61,5 @@ The Advanced Programming course trains students to develop complex and efficient
 | Week 16 | 27/05/2025 |     3 |     | Project - Final               |                                   |
 |         | 29/05/2025 |     2 |     | Project - Final               | Last day                          |
 
-[4]: https://web.stanford.edu/class/archive/cs/cs106l/cs106l.1254/lectures/2025Winter-04-Streams.pdf
+[a1]: https://github.com/cs106l/cs106l-assignments/tree/main/assign1
+[s4]: https://web.stanford.edu/class/archive/cs/cs106l/cs106l.1254/lectures/2025Winter-04-Streams.pdf
