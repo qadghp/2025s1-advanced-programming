@@ -162,24 +162,3 @@ int main() {
     return 0;
 }
 ```
-
----
-
-## **Final Challenge (Bonus Task)**
-- Combine all tasks into a **single program** where users can:
-  - Add products to inventory (`std::map`).
-  - Categorize products (`std::set`).
-  - Process orders (`std::queue`).
-  - Manage restocks (`std::stack`).
-  - Simulate a shopping cart (`std::vector`).
-
-This final implementation will solidify students' understanding of C++ containers in a real-world scenario.
-
----
-
-## **Lab Submission**
-- Students should implement all five tasks and submit their final integrated program.
-- Encourage students to experiment by adding error handling and extending functionality.
-
-Would you like to modify the scenario or add additional requirements?
-
