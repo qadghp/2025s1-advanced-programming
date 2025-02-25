@@ -30,9 +30,9 @@ The Advanced Programming course trains students to develop complex and efficient
 |---------|------------|-------|-----|-------------------------------|-----------------------------------|
 | Week 1  | 11/02/2025 |     3 | L01 | Introduction and Motivation   | First day, [Slides][s1] - [Assignment 0][a0]           |
 |         | 13/02/2025 |     2 | L02 | Types and Structs             | [Slides][s2]                      |
-| Week 2  | 18/02/2025 |     3 | L03 | Initialization and References | [Slides][s3] - [Code Challenge](code_challenge_l03.md)                                  |
-|         | 20/02/2025 |     2 | L04 | Streams                       | [Slides][s4] - [Assignment 1][a1]   |
-| Week 3  | 25/02/2025 |     3 | L05 | Containers                    |                                   |
+| Week 2  | 18/02/2025 |     3 | L03 | Initialization and References | [Slides][s3] - [Code Challenge](code_challenge_l03.md) |
+|         | 20/02/2025 |     2 | L04 | Streams                       | [Slides][s4] - [Assignment 1][a1] |
+| Week 3  | 25/02/2025 |     3 | L05 | Containers                    | [Slides][s5] - [Code Challenge](code_challenge_l05.md) |
 |         | 27/02/2025 |     2 | L06 | Iterators and Pointers        |                                   |
 | Week 4  | 04/03/2025 |     3 |     | ----------------------------- | Holiday - Carnival                |
 |         | 06/03/2025 |     2 | L07 | Workshop                      |                                   |
@@ -96,3 +96,4 @@ The last week of the semester you will present your final results. There are thr
 [s3]: https://web.stanford.edu/class/archive/cs/cs106l/cs106l.1254/lectures/2025Winter-03-Initialization_&_References.pdf
 [a1]: https://github.com/cs106l/cs106l-assignments/tree/main/assign1
 [s4]: https://web.stanford.edu/class/archive/cs/cs106l/cs106l.1254/lectures/2025Winter-04-Streams.pdf
+[s5]: https://office365stanford-my.sharepoint.com/:p:/g/personal/jtrb_stanford_edu/EYPukKrZDqNJgBx3nEFFRjcBLWH7oq2ZHLcfOC46GvNsqA?e=QxtFuy
