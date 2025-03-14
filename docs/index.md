@@ -36,8 +36,8 @@ The Advanced Programming course trains students to develop complex and efficient
 |         | 27/02/2025 |     2 | L06 | Iterators and Pointers        | [Slides][s6] - [Assignment 2][a2] |
 | Week 4  | 04/03/2025 |     3 |     | ----------------------------- | Holiday - Carnival                |
 |         | 06/03/2025 |     2 | L07 | Workshop                      | ---                               |
-| Week 5  | 11/03/2025 |     3 | L08 | Classes                       | [Slides][s7] - [Assignment 3][a3]                                  |
-|         | 13/03/2025 |     2 | L09 | Template Functions            |                                   |
+| Week 5  | 11/03/2025 |     3 | L08 | Classes                       | [Slides][s7] - [Assignment 3][a3] |
+|         | 13/03/2025 |     2 | L09 | Template Functions            | [Slides][s8]                      |
 | Week 6  | 18/03/2025 |     3 | L10 | Operator Overloading          |                                   |
 |         | 20/03/2025 |     2 | L11 | Special Member Functions      |                                   |
 | Week 7  | 25/03/2025 |     3 | L12 | Move Semantics                |                                   |
@@ -101,3 +101,4 @@ The last week of the semester you will present your final results. There are thr
 [a2]: https://github.com/cs106l/cs106l-assignments/tree/main/assign2
 [s7]: https://web.stanford.edu/class/archive/cs/cs106l/cs106l.1254/lectures/2025Winter-07-Classes.pdf
 [a3]: https://github.com/cs106l/cs106l-assignments/tree/main/assign3
+[s8]: https://office365stanford-my.sharepoint.com/:p:/g/personal/jtrb_stanford_edu/EdnWDZUp20hLj3T-MIPfhqABHpYR2zr5BZI3zdAaSv0Qhw?e=kygbcS
