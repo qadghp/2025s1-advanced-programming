@@ -35,9 +35,10 @@ The Advanced Programming course trains students to develop complex and efficient
 | Week 3  | 25/02/2025 |     3 | L05 | Containers                    | [Slides][s5] - [Code Challenge](code_challenge_l05.md) |
 |         | 27/02/2025 |     2 | L06 | Iterators and Pointers        | [Slides][s6] - [Assignment 2][a2] |
 | Week 4  | 04/03/2025 |     3 |     | ----------------------------- | Holiday - Carnival                |
-|         | 06/03/2025 |     2 | L07 | Workshop                      | ---                               |
-| Week 5  | 11/03/2025 |     3 | L08 | Classes                       | [Slides][s7] - [Assignment 3][a3] |
-|         | 13/03/2025 |     2 | L09 | Template Functions            | [Slides][s8]                      |
+|         | 06/03/2025 |     2 |     | Workshop                      | ---                               |
+| Week 5  | 11/03/2025 |     3 | L07 | Classes                       | [Slides][s7] - [Assignment 3][a3] |
+|         | 13/03/2025 |     2 | L08 | Template Classes              | [Slides][s8]                      |
+|         | 13/03/2025 |     2 | L09 | Template Functions            |                                   |
 | Week 6  | 18/03/2025 |     3 | L10 | Operator Overloading          |                                   |
 |         | 20/03/2025 |     2 | L11 | Special Member Functions      |                                   |
 | Week 7  | 25/03/2025 |     3 | L12 | Move Semantics                |                                   |
