@@ -103,4 +103,4 @@ The last week of the semester you will present your final results. There are thr
 [s7]: https://web.stanford.edu/class/archive/cs/cs106l/cs106l.1254/lectures/2025Winter-07-Classes.pdf
 [a3]: https://github.com/cs106l/cs106l-assignments/tree/main/assign3
 [s8]: https://office365stanford-my.sharepoint.com/:p:/g/personal/jtrb_stanford_edu/EdnWDZUp20hLj3T-MIPfhqABHpYR2zr5BZI3zdAaSv0Qhw?e=kygbcS
-[s8]: https://office365stanford-my.sharepoint.com/:p:/g/personal/jtrb_stanford_edu/EYkPoMkxsY5Nli3hf_1ar3UBleNozxFBS2MG_3Nfq0cb0w?e=5g4cA6
+[s9]: https://office365stanford-my.sharepoint.com/:p:/g/personal/jtrb_stanford_edu/EYkPoMkxsY5Nli3hf_1ar3UBleNozxFBS2MG_3Nfq0cb0w?e=5g4cA6
