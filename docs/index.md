@@ -38,10 +38,10 @@ The Advanced Programming course trains students to develop complex and efficient
 |         | 06/03/2025 |     2 |     | Workshop                      | ---                               |
 | Week 5  | 11/03/2025 |     3 | L07 | Classes                       | [Slides][s7] - [Assignment 3][a3] |
 |         | 13/03/2025 |     2 | L08 | Template Classes              | [Slides][s8]                      |
-|         | 13/03/2025 |     2 | L09 | Template Functions            |                                   |
-| Week 6  | 18/03/2025 |     3 | L10 | Operator Overloading          |                                   |
-|         | 20/03/2025 |     2 | L11 | Special Member Functions      |                                   |
-| Week 7  | 25/03/2025 |     3 | L12 | Move Semantics                |                                   |
+| Week 6  | 18/03/2025 |     2 | L09 | Template Functions            | [Slides][s9] - [Code Challenge](code_challenge_l09.md) |                                  |
+|         | 20/03/2025 |     3 | L10 | Operator Overloading          |                                   |
+| Week 7  | 20/03/2025 |     2 | L11 | Special Member Functions      |                                   |
+|         | 25/03/2025 |     3 | L12 | Move Semantics                |                                   |
 |         | 27/03/2025 |     2 | L13 | std::optional and Type Safety |                                   |
 | Week 8  | 01/04/2025 |     3 |     | Project - Progress            |                                   |
 |         | 03/04/2025 |     2 |     | Project - Progress            |                                   |
@@ -103,3 +103,4 @@ The last week of the semester you will present your final results. There are thr
 [s7]: https://web.stanford.edu/class/archive/cs/cs106l/cs106l.1254/lectures/2025Winter-07-Classes.pdf
 [a3]: https://github.com/cs106l/cs106l-assignments/tree/main/assign3
 [s8]: https://office365stanford-my.sharepoint.com/:p:/g/personal/jtrb_stanford_edu/EdnWDZUp20hLj3T-MIPfhqABHpYR2zr5BZI3zdAaSv0Qhw?e=kygbcS
+[s8]: https://office365stanford-my.sharepoint.com/:p:/g/personal/jtrb_stanford_edu/EYkPoMkxsY5Nli3hf_1ar3UBleNozxFBS2MG_3Nfq0cb0w?e=5g4cA6
