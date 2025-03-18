@@ -39,15 +39,16 @@ The Advanced Programming course trains students to develop complex and efficient
 | Week 5  | 11/03/2025 |     3 | L07 | Classes                       | [Slides][s7] - [Assignment 3][a3] |
 |         | 13/03/2025 |     2 | L08 | Template Classes              | [Slides][s8]                      |
 | Week 6  | 18/03/2025 |     2 | L09 | Template Functions            | [Slides][s9] - [Code Challenge](code_challenge_l09.md) |                                  |
-|         | 20/03/2025 |     3 | L10 | Operator Overloading          |                                   |
-| Week 7  | 20/03/2025 |     2 | L11 | Special Member Functions      |                                   |
-|         | 25/03/2025 |     3 | L12 | Move Semantics                |                                   |
-|         | 27/03/2025 |     2 | L13 | std::optional and Type Safety |                                   |
-| Week 8  | 01/04/2025 |     3 |     | Project - Progress            |                                   |
-|         | 03/04/2025 |     2 |     | Project - Progress            |                                   |
-| Week 9  | 08/04/2025 |     3 | L14 | STD Library                   |                                   |
-|         | 10/04/2025 |     2 | L15 | External Libraries            |                                   |
-| Week 10 | 15/04/2025 |     3 |     | Workshop                      |                                   |
+|         | 20/03/2025 |     3 | L10 | Functions and Lambdas         |                                   |
+| Week 7  | 25/03/2025 |     2 | L11 | Operator Overloading          |                                   |
+|         | 27/03/2025 |     3 | L12 | Special Member Functions      |                                   |
+| Week 8  | 01/04/2025 |     2 | L13 | Move Semantics                |                                   |
+|         | 03/04/2025 |     3 | L14 | std::optional and Type Safety |                                   |
+|         | 08/04/2025 |     3 |     | Project - Progress            |                                   |
+|         | 10/04/2025 |     2 |     | Project - Progress            |                                   |
+| Week 9  | 08/04/2025 |     3 | L14 | std::optional and Type Safety |                                   |
+|         | 10/04/2025 |     2 | L15 | STD Library                   |                                   |
+| Week 10 | 15/04/2025 |     3 |     | External Libraries            |                                   |
 |         | 17/04/2025 |     2 |     | Workshop                      | Holiday - Good Friday             |
 | Week 11 | 22/04/2025 |     3 | L16 | Queues                        |                                   |
 |         | 24/04/2025 |     2 | L17 | Stacks                        |                                   |
