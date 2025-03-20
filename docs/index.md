@@ -39,7 +39,7 @@ The Advanced Programming course trains students to develop complex and efficient
 | Week 5  | 11/03/2025 |     3 | L07 | Classes                       | [Slides][s7] - [Assignment 3][a3] |
 |         | 13/03/2025 |     2 | L08 | Template Classes              | [Slides][s8]                      |
 | Week 6  | 18/03/2025 |     2 | L09 | Template Functions            | [Slides][s9] - [Code Challenge](code_challenge_l09.md) |                                  |
-|         | 20/03/2025 |     3 | L10 | Functions and Lambdas         |                                   |
+|         | 20/03/2025 |     3 | L10 | Functions and Lambdas         | [Slides][s10] - [Assignment 3][a4]|
 | Week 7  | 25/03/2025 |     2 | L11 | Operator Overloading          |                                   |
 |         | 27/03/2025 |     3 | L12 | Special Member Functions      |                                   |
 | Week 8  | 01/04/2025 |     2 | L13 | Move Semantics                |                                   |
@@ -105,3 +105,5 @@ The last week of the semester you will present your final results. There are thr
 [a3]: https://github.com/cs106l/cs106l-assignments/tree/main/assign3
 [s8]: https://office365stanford-my.sharepoint.com/:p:/g/personal/jtrb_stanford_edu/EdnWDZUp20hLj3T-MIPfhqABHpYR2zr5BZI3zdAaSv0Qhw?e=kygbcS
 [s9]: https://office365stanford-my.sharepoint.com/:p:/g/personal/jtrb_stanford_edu/EYkPoMkxsY5Nli3hf_1ar3UBleNozxFBS2MG_3Nfq0cb0w?e=5g4cA6
+[s10]: https://office365stanford-my.sharepoint.com/:p:/g/personal/jtrb_stanford_edu/EbbWt3laHbBLlqPSGG8_3K0ByxKr3XocypNYVaxGddTIJw?e=4vXwPQ
+[a4]: https://github.com/cs106l/cs106l-assignments/tree/main/assign4
