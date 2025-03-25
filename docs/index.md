@@ -40,8 +40,8 @@ The Advanced Programming course trains students to develop complex and efficient
 |         | 13/03/2025 |     2 | L08 | Template Classes              | [Slides][s8]                      |
 | Week 6  | 18/03/2025 |     2 | L09 | Template Functions            | [Slides][s9] - [Code Challenge](code_challenge_l09.md) |                                  |
 |         | 20/03/2025 |     3 | L10 | Functions and Lambdas         | [Slides][s10] - [Assignment 4][a4]|
-| Week 7  | 25/03/2025 |     2 | L11 | Operator Overloading          |                                   |
-|         | 27/03/2025 |     3 | L12 | Special Member Functions      |                                   |
+| Week 7  | 25/03/2025 |     2 | L11 | Operator Overloading          | [Slides][s11] - [Assignment 4][a5]|
+|         | 27/03/2025 |     3 | L12 | Special Member Functions      | [Slides][s12]                     |
 | Week 8  | 01/04/2025 |     2 | L13 | Move Semantics                |                                   |
 |         | 03/04/2025 |     3 | L14 | std::optional and Type Safety |                                   |
 |         | 08/04/2025 |     3 |     | Project - Progress            |                                   |
@@ -107,3 +107,6 @@ The last week of the semester you will present your final results. There are thr
 [s9]: https://office365stanford-my.sharepoint.com/:p:/g/personal/jtrb_stanford_edu/EYkPoMkxsY5Nli3hf_1ar3UBleNozxFBS2MG_3Nfq0cb0w?e=5g4cA6
 [s10]: https://office365stanford-my.sharepoint.com/:p:/g/personal/jtrb_stanford_edu/EbbWt3laHbBLlqPSGG8_3K0ByxKr3XocypNYVaxGddTIJw?e=4vXwPQ
 [a4]: https://github.com/cs106l/cs106l-assignments/tree/main/assign4
+[s11]: https://web.stanford.edu/class/archive/cs/cs106l/cs106l.1254/lectures/2025Winter-11-Operator_Overloading.pdf
+[a5]: https://github.com/cs106l/cs106l-assignments/tree/main/assign5
+[s12]: https://web.stanford.edu/class/archive/cs/cs106l/cs106l.1254/lectures/2025Winter-12-Special_Member_Functions.pdf
