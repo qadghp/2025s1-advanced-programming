@@ -40,7 +40,7 @@ The Advanced Programming course trains students to develop complex and efficient
 |         | 13/03/2025 |     2 | L08 | Template Classes              | [Slides][s8]                      |
 | Week 6  | 18/03/2025 |     2 | L09 | Template Functions            | [Slides][s9] - [Code Challenge](code_challenge_l09.md) |                                  |
 |         | 20/03/2025 |     3 | L10 | Functions and Lambdas         | [Slides][s10] - [Assignment 4][a4]|
-| Week 7  | 25/03/2025 |     2 | L11 | Operator Overloading          | [Slides][s11] - [Assignment 4][a5]|
+| Week 7  | 25/03/2025 |     2 | L11 | Operator Overloading          | [Slides][s11] - [Assignment 5][a5]|
 |         | 27/03/2025 |     3 | L12 | Special Member Functions      | [Slides][s12]                     |
 | Week 8  | 01/04/2025 |     2 | L13 | Move Semantics                |                                   |
 |         | 03/04/2025 |     3 | L14 | std::optional and Type Safety |                                   |
