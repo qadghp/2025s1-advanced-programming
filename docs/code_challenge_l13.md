@@ -10,7 +10,7 @@ By the end of the lab, students will have a concrete understanding of when and w
 ## **Learning Goals**
 By the end of this lab, you will be able to:
 
-✅ Explain the concept of move semantics and rvalue references in C++
+✅ Explain the concept of move semantics and rvalue references in C++  
 ✅ Implement a move constructor and move assignment operator  
 ✅ Compare the behavior and performance of copy vs. move operations  
 ✅ Identify scenarios where move semantics are particularly beneficial  
