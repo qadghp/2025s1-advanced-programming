@@ -41,10 +41,11 @@ int main() {
 ```
 
 Questions:
-•	What is the output of this program?
-•	Why does v1.size() return 0 after the move?
-•	What does std::move do?
-•	Why is v1 still in a valid but unspecified state?
+
+•	What is the output of this program?  
+•	Why does v1.size() return 0 after the move?  
+•	What does std::move do?  
+•	Why is v1 still in a valid but unspecified state?  
 
 ## **Part 2: Implementing Move Semantics**
 
@@ -159,6 +160,7 @@ std::cout << "Duration: " << std::chrono::duration_cast<std::chrono::millisecond
 
 ## **Part 5: Summary**
 Questions
-•	What did you learn about move semantics?
-•	In what kinds of projects do you think this would matter?
-•	What are some risks of using std::move incorrectly?
+
+•	What did you learn about move semantics?  
+•	In what kinds of projects do you think this would matter?  
+•	What are some risks of using std::move incorrectly?  
