@@ -43,7 +43,7 @@ The Advanced Programming course trains students to develop complex and efficient
 | Week 7  | 25/03/2025 |     2 | L11 | Operator Overloading          | [Slides][s11] - [Assignment 5][a5]|
 |         | 27/03/2025 |     3 | L12 | Special Member Functions      | [Slides][s12]                     |
 | Week 8  | 01/04/2025 |     2 | L13 | Move Semantics                | [Slides][s13]- [Code Challenge](code_challenge_l13.md) |
-|         | 03/04/2025 |     3 | L14 | std::optional and Type Safety |                                   |
+|         | 03/04/2025 |     3 | L14 | std::optional and Type Safety | [Slides][s14] - [Assignment 6][a6]|
 |         | 08/04/2025 |     3 |     | Project - Progress            |                                   |
 |         | 10/04/2025 |     2 |     | Project - Progress            |                                   |
 | Week 9  | 08/04/2025 |     3 | L14 | std::optional and Type Safety |                                   |
@@ -111,3 +111,5 @@ The last week of the semester you will present your final results. There are thr
 [a5]: https://github.com/cs106l/cs106l-assignments/tree/main/assign5
 [s12]: https://web.stanford.edu/class/archive/cs/cs106l/cs106l.1254/lectures/2025Winter-12-Special_Member_Functions.pdf
 [s13]: https://office365stanford-my.sharepoint.com/:p:/g/personal/jtrb_stanford_edu/Ecu7hbtK0ENLtnW-DRnJZqMBOsl0JiYm5wQiAO42nnWJ6Q?e=DHFa8w
+[s14]: https://web.stanford.edu/class/archive/cs/cs106l/cs106l.1254/lectures/2025Winter-14-Optional&TypeSafety.pdf
+[a6]: https://github.com/cs106l/cs106l-assignments/tree/main/assign6
