@@ -44,18 +44,16 @@ The Advanced Programming course trains students to develop complex and efficient
 |         | 27/03/2025 |     3 | L12 | Special Member Functions      | [Slides][s12]                     |
 | Week 8  | 01/04/2025 |     2 | L13 | Move Semantics                | [Slides][s13]- [Code Challenge](code_challenge_l13.md) |
 |         | 03/04/2025 |     3 | L14 | std::optional and Type Safety | [Slides][s14] - [Assignment 6][a6]|
-|         | 08/04/2025 |     3 |     | Project - Progress            |                                   |
+| Week 9  | 08/04/2025 |     3 |     | Project - Progress            |                                   |
 |         | 10/04/2025 |     2 |     | Project - Progress            |                                   |
-| Week 9  | 08/04/2025 |     3 | L14 | std::optional and Type Safety |                                   |
-|         | 10/04/2025 |     2 | L15 | STD Library                   |                                   |
-| Week 10 | 15/04/2025 |     3 |     | External Libraries            |                                   |
-|         | 17/04/2025 |     2 |     | Workshop                      | Holiday - Good Friday             |
-| Week 11 | 22/04/2025 |     3 | L16 | Queues                        |                                   |
-|         | 24/04/2025 |     2 | L17 | Stacks                        |                                   |
-| Week 12 | 29/04/2025 |     3 |     | Workshop                      |                                   |
-|         | 01/05/2025 |     2 |     | Workshop                      | Holiday - Labor Day               |
-| Week 13 | 06/05/2025 |     3 |     | Coding Challenges             |                                   |
-|         | 08/05/2025 |     2 |     | Coding Challenges             |                                   |
+| Week 10 | 15/04/2025 |     3 | L14 | Workshop                      |                                   |
+|         | 17/04/2025 |     2 | L15 | ----------------------------- | Holiday - Good Friday             |
+| Week 11 | 22/04/2025 |     2 | L17 | Smart Pointers and Building   |                                   |
+|         | 24/04/2025 |     2 | L17 | STD Library                   |                                   |
+| Week 12 | 29/04/2025 |     3 |     | Project Progress              |                                   |
+|         | 01/05/2025 |     2 |     | Project Progress              | Holiday - Labor Day               |
+| Week 13 | 06/05/2025 |     3 |     | Project Report                |                                   |
+|         | 08/05/2025 |     2 |     | External Libraries            |                                   |
 | Week 14 | 13/05/2025 |     3 |     | Coding Challenges             |                                   |
 |         | 15/05/2025 |     2 |     | Coding Challenges             |                                   |
 | Week 15 | 20/05/2025 |     3 |     | Workshop                      |                                   |
