@@ -46,14 +46,14 @@ The Advanced Programming course trains students to develop complex and efficient
 |         | 03/04/2025 |     3 | L14 | std::optional and Type Safety | [Slides][s14] - [Assignment 6][a6]|
 | Week 9  | 08/04/2025 |     3 |     | Project - Progress            |                                   |
 |         | 10/04/2025 |     2 |     | Project - Progress            |                                   |
-| Week 10 | 15/04/2025 |     3 | L14 | Workshop                      |                                   |
-|         | 17/04/2025 |     2 | L15 | ----------------------------- | Holiday - Good Friday             |
-| Week 11 | 22/04/2025 |     2 | L17 | Smart Pointers and Building   |                                   |
-|         | 24/04/2025 |     2 | L17 | STD Library                   |                                   |
+| Week 10 | 15/04/2025 |     3 |     | Workshop                      |                                   |
+|         | 17/04/2025 |     2 |     | ----------------------------- | Holiday - Good Friday             |
+| Week 11 | 22/04/2025 |     2 | L15 | Smart Pointers and Building   | [Slides][s15] - [Assignment 6][a7]|
+|         | 24/04/2025 |     2 | L16 | Libraries                     |                                   |
 | Week 12 | 29/04/2025 |     3 |     | Project Progress              |                                   |
 |         | 01/05/2025 |     2 |     | Project Progress              | Holiday - Labor Day               |
 | Week 13 | 06/05/2025 |     3 |     | Project Report                |                                   |
-|         | 08/05/2025 |     2 |     | External Libraries            |                                   |
+|         | 08/05/2025 |     2 |     | Coding Challenges             |                                   |
 | Week 14 | 13/05/2025 |     3 |     | Coding Challenges             |                                   |
 |         | 15/05/2025 |     2 |     | Coding Challenges             |                                   |
 | Week 15 | 20/05/2025 |     3 |     | Workshop                      |                                   |
@@ -111,3 +111,5 @@ The last week of the semester you will present your final results. There are thr
 [s13]: https://office365stanford-my.sharepoint.com/:p:/g/personal/jtrb_stanford_edu/Ecu7hbtK0ENLtnW-DRnJZqMBOsl0JiYm5wQiAO42nnWJ6Q?e=DHFa8w
 [s14]: https://web.stanford.edu/class/archive/cs/cs106l/cs106l.1254/lectures/2025Winter-14-Optional&TypeSafety.pdf
 [a6]: https://github.com/cs106l/cs106l-assignments/tree/main/assign6
+[s15]: https://web.stanford.edu/class/archive/cs/cs106l/cs106l.1254/lectures/2025Winter-15-RAII_&_Smart_Pointers_.pdf
+[a7]: https://github.com/qadghp/cs106l-assignments/blob/main/assign7/README.md
