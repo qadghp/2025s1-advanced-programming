@@ -63,7 +63,7 @@ The Advanced Programming course trains students to develop complex and efficient
 
 
 ## Project
-Doing is powerful learning technique. The goal of the project is to give you the opportunity to use all the tools covered during the semester and also explore new interesting ideas on your own. There are two important moments for the project.
+Doing is a powerful learning technique. The goal of the project is to give you the opportunity to use all the tools covered during the semester and also explore new, interesting ideas on your own. There are two important moments for the project.
 
 1. Midterm progress presentation
 2. Final results presentation
