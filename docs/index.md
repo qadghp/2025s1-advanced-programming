@@ -48,7 +48,7 @@ The Advanced Programming course trains students to develop complex and efficient
 |         | 10/04/2025 |     2 |     | Project - Progress            |                                   |
 | Week 10 | 15/04/2025 |     3 |     | Workshop                      |                                   |
 |         | 17/04/2025 |     2 |     | ----------------------------- | Holiday - Good Friday             |
-| Week 11 | 22/04/2025 |     2 | L15 | Smart Pointers and Building   | [Slides][s15] - [Assignment 6][a7]|
+| Week 11 | 22/04/2025 |     2 | L15 | Smart Pointers and Building   | [Slides][s15] - [Assignment 7][a7]|
 |         | 24/04/2025 |     2 | L16 | Libraries                     |                                   |
 | Week 12 | 29/04/2025 |     3 |     | Project Progress              |                                   |
 |         | 01/05/2025 |     2 |     | Project Progress              | Holiday - Labor Day               |
