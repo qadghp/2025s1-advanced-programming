@@ -1,4 +1,4 @@
-# **Move Semantics**
+# **Libraries**
 
 ## **Overview**
 Using libraries is a common day task while programming. We often follow the DRY (Do not repeat yourself principle) and that involves using as much as possible from what is already implemented. In this code challenge, you excersice those skills while working on a data analytics app for a business.
