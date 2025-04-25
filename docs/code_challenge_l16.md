@@ -18,8 +18,8 @@ You are going to work on a Data Analytics app for a retail store. The app is goi
 
 1. Download the Online Retail dataset from [UC Irvine Repository](https://archive.ics.uci.edu/dataset/352/online+retail)
 2. Data Analysis
-    2.1 Fist analysis: Find the number of transactions per country. If there is no input from the CLI provide the counter for all countries. If the user passes one parameter as a input, show the number of transactions for that country.
-    2.2. Second analysis: Calculate the total amount of the transactions. There should be a CLI parameter `--only-uk`that if given calculates the transactions for the UK. Otherwise, the calculations is done for all the records.
+    1. Fist analysis: Find the number of transactions per country. If there is no input from the CLI provide the counter for all countries. If the user passes one parameter as a input, show the number of transactions for that country.
+    2. Second analysis: Calculate the total amount of the transactions. There should be a CLI parameter `--only-uk`that if given calculates the transactions for the UK. Otherwise, the calculations is done for all the records.
 
 ## **Part 1: Create a CLI App**
 ### ✅ **Task 1.1 Create a parser for the arguments**
