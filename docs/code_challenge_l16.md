@@ -8,8 +8,8 @@ Using libraries is a common day task while programming. We often follow the DRY 
 ## **Learning Goals**
 By the end of this lab, you will be able to:
 
-✅ Create your own Makefile
-✅ Use external libraries to build a CLI based interface
+✅ Create your own Makefile 
+✅ Use external libraries to build a CLI based interface 
 
 ---
 
